@@ -5066,8 +5066,8 @@
 20946,"SHIHADAH, Rafiq","individual","SYRIA","Major General",-0- ,-0- ,-0- ,-0- ,-0- ,-0- ,"DOB 1954; Gender Male; Major General."
 20947,"AL-HASAN, Suhayl Hasan","individual","SYRIA","Syrian Air Force Intelligence Colonel",-0- ,-0- ,-0- ,-0- ,-0- ,-0- ,"DOB 1964; Gender Male; Syrian Air Force Intelligence Colonel; Linked To: SYRIAN AIR FORCE INTELLIGENCE."
 20948,"BILAL, Muhammad Nafi","individual","SYRIA","Syrian Air Force Intelligence Colonel",-0- ,-0- ,-0- ,-0- ,-0- ,-0- ,"DOB 25 May 1971; alt. DOB 1971; Gender Male; Syrian Air Force Intelligence Colonel; Linked To: SYRIAN AIR FORCE INTELLIGENCE."
-20949,"DAHI, Yasin Ahmad","individual","SYRIA","Brigadier General",-0- ,-0- ,-0- ,-0- ,-0- ,-0- ,"DOB 1960; Gender Male; Brigadier General; Linked To: SYRIAN MILITARY INTELLIGENCE."
-20950,"MAHALLA, Muhammad Mahmud","individual","SYRIA","Major General, Director of Syrian Military Intelligence",-0- ,-0- ,-0- ,-0- ,-0- ,-0- ,"DOB 04 Jun 1959; Gender Male; Major General, Director of Syrian Military Intelligence; Linked To: SYRIAN MILITARY INTELLIGENCE."
+20949,"DAHI, Yasin Ahmad","individual","SYRIA","Brigadier General",-0- ,-0- ,-0- ,-0- ,-0- ,-0- ,"DOB 1960; Gender Male; Brigadier General; Linked To: SYRIAN MILITARY INTELLIGENCE DIRECTORATE."
+20950,"MAHALLA, Muhammad Mahmud","individual","SYRIA","Major General, Director of Syrian Military Intelligence",-0- ,-0- ,-0- ,-0- ,-0- ,-0- ,"DOB 04 Jun 1959; Gender Male; Major General, Director of Syrian Military Intelligence; Linked To: SYRIAN MILITARY INTELLIGENCE DIRECTORATE."
 20951,"RAHMUN, Muhammad Khalid","individual","SYRIA","Major General; Chief of the Political Security Directorate",-0- ,-0- ,-0- ,-0- ,-0- ,-0- ,"DOB 01 Apr 1957; Gender Male; Major General; Chief of the Political Security Directorate; Linked To: POLITICAL SECURITY DIRECTORATE."
 20952,"MAKHLUF, Talal Shafiq","individual","SYRIA","Major General, Syrian Republican Guard",-0- ,-0- ,-0- ,-0- ,-0- ,-0- ,"DOB 01 Dec 1958; Gender Male; Major General, Syrian Republican Guard; Linked To: SYRIAN ARAB REPUBLICAN GUARD."
 20953,"DARWISH, Saji Jamil","individual","SYRIA","Major General, Syrian Air Force",-0- ,-0- ,-0- ,-0- ,-0- ,-0- ,"DOB 11 Jan 1957; Gender Male; Major General, Syrian Air Force; Linked To: SYRIAN AIR FORCE."
@@ -9020,4 +9020,7 @@
 32493,"AL-HAYES, Raed Jassim","individual","SYRIA-EO13894",-0- ,-0- ,-0- ,-0- ,-0- ,-0- ,-0- ,"DOB 1985; nationality Syria; Gender Male."
 32628,"LOPEZ MIERA, Alvaro","individual","GLOMAG",-0- ,-0- ,-0- ,-0- ,-0- ,-0- ,-0- ,"DOB 26 Dec 1943; POB Havana, Cuba; nationality Cuba; Gender Male."
 32651,"BRIGADA ESPECIAL NACIONAL DEL MINISTERIO DEL INTERIOR",-0- ,"GLOMAG",-0- ,-0- ,-0- ,-0- ,-0- ,-0- ,-0- ,"Target Type Government Entity."
+32671,"POLICIA NACIONAL REVOLUCIONARIA",-0- ,"GLOMAG",-0- ,-0- ,-0- ,-0- ,-0- ,-0- ,-0- ,"Target Type Government Entity; Linked To: MINISTRY OF INTERIOR."
+32672,"CALLEJAS VALCARCE, Oscar Alejandro","individual","GLOMAG","Director, Policia Nacional Revolucionaria",-0- ,-0- ,-0- ,-0- ,-0- ,-0- ,"DOB 19 Sep 1957; POB Havana, Cuba; nationality Cuba; Gender Male; Passport A006951 (Cuba) expires 18 Jul 2027; National ID No. 57091910348 (Cuba); Director, Policia Nacional Revolucionaria; Linked To: POLICIA NACIONAL REVOLUCIONARIA."
+32673,"SIERRA ARIAS, Eddy Manuel","individual","GLOMAG","Deputy Director, Policia Nacional Revolucionaria",-0- ,-0- ,-0- ,-0- ,-0- ,-0- ,"DOB 03 Sep 1971; POB Holguin, Cuba; nationality Cuba; Gender Male; Passport A008237 (Cuba) expires 20 Apr 2027; National ID No. 71090325982 (Cuba); Deputy Director, Policia Nacional Revolucionaria; Linked To: POLICIA NACIONAL REVOLUCIONARIA."
 
